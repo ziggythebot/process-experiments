@@ -1,0 +1,10 @@
+{"version":3,"term":{"cols":80,"rows":24},"timestamp":1773222240,"command":"./record.sh","env":{"SHELL":"/bin/zsh"}}
+[0.209, "o", "BUILD\r\n"]
+[0.604, "o", "→\r\n"]
+[0.308, "o", "DEPLOY\r\n"]
+[0.656, "o", "→\r\n"]
+[0.329, "o", "ITERATE\r\n"]
+[0.657, "o", "→\r\n"]
+[0.338, "o", "FOREVER\r\n"]
+[0.507, "o", "\r\nThat's the whole process.\r\n"]
+[0.001, "x", "0"]
